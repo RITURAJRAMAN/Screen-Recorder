@@ -4,7 +4,7 @@ import numpy as np
 import pyautogui
 
 window = Tk()
-window.title("Future Keys")
+window.title("Screen Recorder")
 window.geometry('500x400')
 window.configure(bg='black')
 Label(window, text="Screen Recorder", font="algerian 22 bold", bg='OrangeRed1').place(x=70, y=20)
